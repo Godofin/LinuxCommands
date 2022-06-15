@@ -17,3 +17,6 @@
 
 ## Documentação dos comandos linux
 - `man comando`
+
+## Descobrir o nome do usuário que está sendo utilizado
+- `whoami`
