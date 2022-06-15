@@ -11,3 +11,7 @@ cowsay texto
 sudo apt-get install neofetch
 neofetch
 
+## Figlet
+sudo apt-get figlet
+figlet nome-foto.png
+
