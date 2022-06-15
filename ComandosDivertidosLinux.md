@@ -13,5 +13,5 @@ neofetch
 
 ## Figlet
 sudo apt-get figlet
-figlet nome-foto.png
+figlet texto
 
