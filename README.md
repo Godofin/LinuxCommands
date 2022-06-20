@@ -23,3 +23,15 @@
 
 ## Criar um novo diretório
 - `mkdir`
+
+## Remover um diretório
+- `rmdir`
+
+## Remover um arquivo
+- `rm`
+
+## Ler todos os arquivos
+`cat *.txt`
+
+## Apagar diretório e seus arquivos
+`rm -r nome_diretório`
