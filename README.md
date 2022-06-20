@@ -21,4 +21,5 @@
 ## Descobrir o nome do usuário que está sendo utilizado
 - `whoami`
 
-xxxxxxxxxxxxxxx
+## Criar um novo diretório
+- `mkdir`
