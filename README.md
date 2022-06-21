@@ -35,3 +35,11 @@
 
 ## Apagar diretório e seus arquivos
 `rm -r nome_diretório`
+
+## Copiando arquivos
+`cp nome_arquivo nome_novo_arquivo`
+
+## Mover arquivos / Renomear arquivos
+`mv nome_arquivo diretório / mv nome_arquivo novo_nome_arquivo`
+
+
