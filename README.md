@@ -42,4 +42,11 @@
 ## Mover arquivos / Renomear arquivos
 `mv nome_arquivo diretório / mv nome_arquivo novo_nome_arquivo`
 
+## Compactar arquivos e diretórios
+`zip -r nome.zip nome_diretorio_aserzipado`
+
+## Descompactar arquivos zipados(rq = responsive quiet)
+`unzip -rq nome_zip` 
+
+
 
